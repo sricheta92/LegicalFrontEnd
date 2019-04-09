@@ -74,11 +74,6 @@ class Login extends Component {
                         <div className="cardL-header card-header">
                             <br/>
                             <h3>Sign In</h3>
-                            {/* <div className="d-flex justify-content-end social_icon">
-                                <span><i className="fab fa-facebook-square"></i></span>
-                                <span><i className="fab fa-google-plus-square"></i></span>
-                                <span><i className="fab fa-twitter-square"></i></span>
-                            </div> */}
                         </div>
                         <div >
                             {this.props.loginMsg && (
